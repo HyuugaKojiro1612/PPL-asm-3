@@ -1,0 +1,9 @@
+ x: integer;                 
+                    main: function void () {
+                    }
+                    foo: function boolean (b: float, inherit d: string) {
+                        x: float = 2.0;
+                        main(2, true);
+                        return true;
+                    }
+        

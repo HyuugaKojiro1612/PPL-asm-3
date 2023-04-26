@@ -1,0 +1,7 @@
+ x: integer;
+                    foo: function void (b: integer, c: string) {
+                        x: float = 2.0;
+                        readInteger(2);
+                        z: auto = 2;
+                    }
+        

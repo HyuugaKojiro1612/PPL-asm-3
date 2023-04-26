@@ -1,0 +1,15 @@
+ x: integer;           
+                    y: auto = true;      
+                    main: function void () {
+                        bar(false, 2);
+                    }
+                    foo: function boolean (a: float, inherit b: string) {
+                        x: integer = 2;
+                        return y || (x == 2);
+                    }
+                    bar: function float (c: boolean, d: auto) {
+                        c = foo(2, "2");
+                        d = c;
+                        return x + d;
+                    }
+        

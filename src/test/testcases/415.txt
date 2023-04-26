@@ -1,0 +1,7 @@
+ x: integer;
+                    main: function void (b: integer, c: string) {
+                        x: float = 2.0;
+                        printInteger(2.0);
+                        z: auto = 2;
+                    }
+        

@@ -1,0 +1,3 @@
+x: integer;
+        foo: function void () {
+        }

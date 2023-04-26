@@ -1,0 +1,12 @@
+ x: integer;                 
+                    main: function void () inherit foo {
+                        y: float = 2.0;
+                        a: auto = 2;
+                        printInteger(2);
+                    }
+                    foo: function void () {
+                        x: float = 2.0;
+                        
+                        z: auto = 2;
+                    }
+        

@@ -1,0 +1,7 @@
+Program([
+	VarDecl(x, IntegerType)
+	VarDecl(y, AutoType, BooleanLit(True))
+	FuncDecl(main, VoidType, [], None, BlockStmt([]))
+	FuncDecl(foo, BooleanType, [Param(a, FloatType), InheritParam(b, StringType)], None, BlockStmt([ReturnStmt(BinExpr(==, BinExpr(||, Id(y), Id(a)), IntegerLit(2)))]))
+	FuncDecl(bar, FloatType, [Param(c, BooleanType), Param(d, AutoType)], None, BlockStmt([ReturnStmt(BinExpr(+, Id(x), Id(d)))]))
+])

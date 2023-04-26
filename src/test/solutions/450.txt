@@ -1,0 +1,1 @@
+Type mismatch in statement: ReturnStmt(FuncCall(foo, [IntegerLit(1), FloatLit(1.0), StringLit(true)]))

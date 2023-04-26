@@ -1,0 +1,17 @@
+ 
+        fact: function integer (m:integer, n: float) inherit foo {
+            super(1.0,1.0,true);
+            for(m = 0, m < 1.0, m +1){
+                if (true) return 1;
+                else return 1;
+                do{
+                    
+                }
+                while(1);
+            }
+        }
+        foo: function integer (inherit x:auto, y: auto, z:auto) {}
+        main: function void(){
+            
+        }
+        

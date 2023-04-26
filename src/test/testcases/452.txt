@@ -1,0 +1,10 @@
+ 
+        fact: function void (m:integer, n: float) inherit foo {
+            super(1.0,1.0,true);
+            x = 1 ;
+        }
+        foo: function integer (inherit x:auto, y: auto, z:auto) {}
+        main: function void(){
+            
+        }
+        

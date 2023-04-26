@@ -1,0 +1,12 @@
+ x: integer;           
+                    y: auto = true;      
+                    main: function void () {
+                    }
+                    foo: function boolean (a: float, inherit b: string) {
+                        return y || (a == 2.0);
+                    }
+                    bar: function float (c: boolean, d: auto) {
+                        c = foo(2, "2");
+                        return x + d;
+                    }
+        

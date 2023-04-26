@@ -1,0 +1,7 @@
+ x: integer;
+                    main: function void (b: integer, c: string) inherit foo {
+                        super(33, "33");
+                        b: float = 2.0;
+                        z: auto = 2;
+                    }
+        

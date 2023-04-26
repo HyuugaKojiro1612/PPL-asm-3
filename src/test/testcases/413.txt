@@ -1,0 +1,7 @@
+ x: integer;
+                    main: function void () {
+                        x: float = 2.0;
+                        printInteger(4);
+                        z: auto = 2;
+                    }
+        

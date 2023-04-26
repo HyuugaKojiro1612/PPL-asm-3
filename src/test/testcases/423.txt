@@ -1,0 +1,13 @@
+ x: integer;
+                    foo: function void (b: float, c: string) {
+                        x: float = 2.0;
+                        printInteger(2);
+                        z: auto = 2;
+                    }
+                    
+                    main: function void (b: integer, c: string) inherit foo {
+                        super(33, "33");
+                        b: float = 2.0;
+                        z: auto = 2;
+                    }
+        

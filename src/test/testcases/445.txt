@@ -1,0 +1,6 @@
+ x: array[3] of integer;           
+                    y: array[3] of integer = {1, 2, 3, 4}; 
+                    foo: function array[3] of integer () {
+                    }    
+                    main: function void() {} 
+        

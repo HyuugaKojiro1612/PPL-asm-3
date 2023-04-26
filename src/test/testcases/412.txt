@@ -1,0 +1,8 @@
+ x: integer;
+                    main: function void (b: auto, c: string) {
+                        
+                        x: float = 2.0;
+                        preventDefault();
+                        z: auto = 2;
+                    }
+        

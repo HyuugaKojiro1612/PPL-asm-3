@@ -1,0 +1,10 @@
+ 
+        fact: function integer (m:integer, n: float) inherit foo {
+            super(1.0,1.0,true);
+            var : array [5] of integer = foo(1, 1, false);
+        }
+        foo: function array [5] of integer (inherit x:auto, y: auto, z:auto) {}
+        main: function void(){
+            
+        }
+        

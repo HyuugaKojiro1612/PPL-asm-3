@@ -1,0 +1,11 @@
+ x: integer;           
+                    y: auto = true;      
+                    main: function void () {
+                    }
+                    foo: function boolean (a: float, inherit b: string) {
+                        return y;
+                    }
+                    bar: function float (c: boolean, d: auto) {
+                        return x + d;
+                    }
+        

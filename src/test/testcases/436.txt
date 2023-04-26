@@ -1,0 +1,7 @@
+ x: integer;                 
+                    main: function void (b: integer, c: boolean) {
+                        y: float = 2.0;
+                        a: auto = 2;
+                        return 2;
+                    }
+        
